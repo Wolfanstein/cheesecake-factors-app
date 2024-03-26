@@ -11,3 +11,11 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+7
+a-1.txt,0\5\0510921439a3e000ce1a7388698d2512e6f2bb2a
+7
+a-2.txt,a\a\aab0a09f4a418df58c947866f8c4629faa5b25be
+7
+a-3.txt,a\8\a890c64b5b6e7f004df69574be5d24cb3b8f23da
+7
+b-2.txt,5\1\5183a6d9889239718a3cea58c4c602baa823aa56
